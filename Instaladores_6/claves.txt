@@ -1,0 +1,3 @@
+PASTOR (encargado)
+
+contraseña: abc123
